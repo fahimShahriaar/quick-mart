@@ -1,0 +1,24 @@
+.header{
+    background-color: #EBFBFA;
+}
+.header img{
+    height: 80px;
+}
+nav{
+    background-color: #00b4d8;
+    line-height: 40px;
+    text-align: center;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 9px;
+}
+nav a:hover{
+    background-color: lightgray;
+    color: black;
+}
+
+.search-bar{
+    background-color: #48cae4;
+}
