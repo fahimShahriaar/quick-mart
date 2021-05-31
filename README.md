@@ -1,1 +1,2 @@
-# e-commerce site with react
+# Quick Mart 
+e-commerce site with react
